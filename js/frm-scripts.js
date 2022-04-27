@@ -8,7 +8,7 @@ window.onload = () => {
     }
 
     addressBtn.onclick = () => {
-        document.getElementById("map-pic").src = "/images/grandmas_home_map.png";
+        document.getElementById("map-pic").src = "images/grandmas_home_map.png";
         destBtn.disabled = false;
     }
 
